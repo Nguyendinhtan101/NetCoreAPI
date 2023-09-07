@@ -1,0 +1,14 @@
+C:\Nguyentan718\data\NewApp\Newconslole\bin\Debug\net7.0\Newconslole.exe
+C:\Nguyentan718\data\NewApp\Newconslole\bin\Debug\net7.0\Newconslole.deps.json
+C:\Nguyentan718\data\NewApp\Newconslole\bin\Debug\net7.0\Newconslole.runtimeconfig.json
+C:\Nguyentan718\data\NewApp\Newconslole\bin\Debug\net7.0\Newconslole.dll
+C:\Nguyentan718\data\NewApp\Newconslole\bin\Debug\net7.0\Newconslole.pdb
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\Newconslole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\Newconslole.AssemblyInfoInputs.cache
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\Newconslole.AssemblyInfo.cs
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\Newconslole.csproj.CoreCompileInputs.cache
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\Newconslole.dll
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\refint\Newconslole.dll
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\Newconslole.pdb
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\Newconslole.genruntimeconfig.cache
+C:\Nguyentan718\data\NewApp\Newconslole\obj\Debug\net7.0\ref\Newconslole.dll
